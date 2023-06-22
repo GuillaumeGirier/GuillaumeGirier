@@ -4,6 +4,8 @@ I am currently finishing my thesis in computational neuroscience at BCAM (Basque
 On this page, you can find my various public works.
 
 You can contact me at the following email address: ggirier@bcamath.org
+ORCID ID : https://orcid.org/0000-0002-3987-1554
+LinkedIn webpage : https://www.linkedin.com/in/guillaume-girier-678310190/
 
 
 # Publications :
@@ -17,6 +19,16 @@ You can contact me at the following email address: ggirier@bcamath.org
 - _From integrator to resonator neurons: A multiple-timescale scenario_, Guillaume Girier, Mathieu Desroches, Serafim Rodrigues. 2023. ffhal-04077398f. HAL Id: hal-04077398. Link : https://hal.science/hal-04077398
 
 # Work Experience :
+
+## 2020 - ongoing : PhD thesis
+
+__TITLE :__ _Development of novel mathematical and experimental methodologies to control neuronal activity and dissect spatio-temporal neuronal codes._
+
+__LOCATION :__ Basque Center for Applied Mathematics (BCAM)
+
+__SUPERVISORS :__ Rodrigues, Serafim. (BCAM, Ikerbasque Research Professor)/
+                  Desroches, Mathieu. (INRIA, Associate Research Professor)
+
 
 ## 2020 : Master second year internship
 
