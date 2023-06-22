@@ -18,12 +18,14 @@ You can contact me at the following email address: ggirier@bcamath.org
 
 # Work Experience :
 
-## 2020 ECOLE NORMALE SUPERIEURE (PARIS) / INRIA (SOPHIA-ANTIPOLIS) : Master first year internship
+## 2020 : Master first year internship
 
 __TITLE :__ _Integrator and resonator neurons: a new approach._
 
+__LOCATION :__ ECOLE NORMALE SUPERIEURE (PARIS) / INRIA (SOPHIA-ANTIPOLIS)
+
 __SUPERVISORS :__ Desroches, Mathieu. (INRIA, Associate Research Professor)
-		          Gutkin, Boris. (ENS, Coordinator of the Group for Neural Theory team)
+	          Gutkin, Boris. (ENS, Coordinator of the Group for Neural Theory team)
 
 __PROJECT DESCRIPTION :__ 
 The main thread of this project is the study of the mathematical concept of integrator and resonator neuron through biophysical models (INa/IK type) and phenomenological models, as well as the possibility that the behavior of a neuron model changes from resonator integrator under the effect of an external forcing, although the two behaviors are significantly different. Described in the book Dynamical System in Neuroscience by Eugene M. Izhikevich, as well as in several other experimental articles on the subject, the characteristics of these two types of neurons are clearly established: the so-called "integrator" neuron has an excitability threshold which defines whether the neuron is in activity or not, belongs to class I of excitability (which means that its frequency tends towards 0 during the transition between the stationary and periodic regime), and does not have an subthreshold oscillation. The so-called "resonator" neuron does not have a precise threshold of excitability, belongs to class II of excitability (which means that its frequency does not tend towards 0 during the transition between the stationary and periodic regime), and has subthreshold oscillations.
@@ -35,4 +37,5 @@ Based on the studies that have already been carried out on the mathematical anal
 # Education : 
 
 __2018 - 2020__ : SORBONNE UNIVERSITY (PARIS) : Bioinformatics Modeling-Cellular and molecular biology master
+
 __2015 - 2018__ : SORBONNE UNIVERSITY (PARIS) : Science of Life license degree.
