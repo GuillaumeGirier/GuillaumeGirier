@@ -6,7 +6,7 @@ On this page, you can find my various public works.
 You can contact me at the following email address: ggirier@bcamath.org
 
 
-# Publications : 
+<span style="color:blue">some *blue*# Publications : </span>.
 
 ## Published : 
 
@@ -24,7 +24,7 @@ __TITLE :__ _Integrator and resonator neurons: a new approach._
 
 __LOCATION :__ ECOLE NORMALE SUPERIEURE (PARIS) / INRIA (SOPHIA-ANTIPOLIS)
 
-__SUPERVISORS :__ Desroches, Mathieu. (INRIA, Associate Research Professor)
+__SUPERVISORS :__ Desroches, Mathieu. (INRIA, Associate Research Professor) /
 	          Gutkin, Boris. (ENS, Coordinator of the Group for Neural Theory team)
 
 __PROJECT DESCRIPTION :__ 
@@ -38,7 +38,7 @@ __TITLE :__ _Short-term synaptic plasticity: modeling depression and synaptic fa
 
 __LOCATION :__ Institut de la Vision (PARIS) / INRIA (SOPHIA-ANTIPOLIS)
 
-__SUPERVISORS :__ Desroches, Mathieu. (INRIA, Associate Research Professor)
+__SUPERVISORS :__ Desroches, Mathieu. (INRIA, Associate Research Professor) /
 	          Sheynikovitch, Denis. (Vision Institute, Associate Professor Sorbonne University)
 
 __PROJECT DESCRIPTION :__ 
