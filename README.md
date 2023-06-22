@@ -26,7 +26,7 @@ LinkedIn webpage : https://www.linkedin.com/in/guillaume-girier-678310190/
 
 ## 2020 - ongoing : PhD thesis
 
-__TITLE :__ _Development of novel mathematical and experimental methodologies to control neuronal activity and dissect spatio-temporal neuronal codes._
+__TITLE :__ _A mathematical, computational and experimental study of neuronal excitability._
 
 __LOCATION :__ Basque Center for Applied Mathematics (BILBAO)
 
