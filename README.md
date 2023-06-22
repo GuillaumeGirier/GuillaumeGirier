@@ -1,7 +1,9 @@
-### Hello world 👋
+# Hello world 👋
 
 I am currently finishing my thesis in computational neuroscience at BCAM (Basque Center for Applied Mathematics). 
 On this page, you can find my various public works.
+
+# Contact :
 
 You can contact me at the following email address: ggirier@bcamath.org
 
