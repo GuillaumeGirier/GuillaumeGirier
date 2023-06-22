@@ -1,5 +1,3 @@
-<span style="color:orange;">Word up</span>
-
 # Hello world 👋
 
 I am currently finishing my thesis in computational neuroscience at BCAM (Basque Center for Applied Mathematics). 
