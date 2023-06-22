@@ -28,7 +28,7 @@ LinkedIn webpage : https://www.linkedin.com/in/guillaume-girier-678310190/
 
 __TITLE :__ _Development of novel mathematical and experimental methodologies to control neuronal activity and dissect spatio-temporal neuronal codes._
 
-__LOCATION :__ Basque Center for Applied Mathematics (BCAM)
+__LOCATION :__ Basque Center for Applied Mathematics (BILBAO)
 
 __SUPERVISORS :__ Rodrigues, Serafim. (BCAM, Ikerbasque Research Professor)/
                   Desroches, Mathieu. (INRIA, Associate Research Professor)
