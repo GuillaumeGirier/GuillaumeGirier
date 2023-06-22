@@ -16,7 +16,7 @@ LinkedIn webpage : https://www.linkedin.com/in/guillaume-girier-678310190/
 
 ## Published : 
 
-## Preprint (waiting for a publication) : 
+## Preprint : 
 
 - _Emergence of High-Order Functional Hubs in the Human Brain_, Fernando A.N. Santos, Prejaas K.B. Tewarie, Pierre Baudot, Antonio Luchicchi, Danillo Barros de Souza, Guillaume Girier, Ana P. Milan, Tommy Broeders, Eduarda G.Z. Centeno, Rodrigo Cofre, Fernando E Rosas, Davide Carone, James Kennedy, Cornelis J. Stam, Arjan Hillebrand, Mathieu Desroches, Serafim Rodrigues, Menno Schoonheim, Linda Douw, Rick Quax, bioRxiv 2023.02.10.528083; doi: https://doi.org/10.1101/2023.02.10.528083
 
