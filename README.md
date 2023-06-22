@@ -6,19 +6,19 @@ On this page, you can find my various public works.
 You can contact me at the following email address: ggirier@bcamath.org
 
 
-## Publications : 
+# Publications : 
 
-# Published : 
+## Published : 
 
-# Preprint (waiting for a publication) : 
+## Preprint (waiting for a publication) : 
 
 - _Emergence of High-Order Functional Hubs in the Human Brain_, Fernando A.N. Santos, Prejaas K.B. Tewarie, Pierre Baudot, Antonio Luchicchi, Danillo Barros de Souza, Guillaume Girier, Ana P. Milan, Tommy Broeders, Eduarda G.Z. Centeno, Rodrigo Cofre, Fernando E Rosas, Davide Carone, James Kennedy, Cornelis J. Stam, Arjan Hillebrand, Mathieu Desroches, Serafim Rodrigues, Menno Schoonheim, Linda Douw, Rick Quax, bioRxiv 2023.02.10.528083; doi: https://doi.org/10.1101/2023.02.10.528083
 
 - _From integrator to resonator neurons: A multiple-timescale scenario_, Guillaume Girier, Mathieu Desroches, Serafim Rodrigues. 2023. ffhal-04077398f. HAL Id: hal-04077398. Link : https://hal.science/hal-04077398
 
-## Work Experience :
+# Work Experience :
 
-# 2020 ECOLE NORMALE SUPERIEURE (PARIS) / INRIA (SOPHIA-ANTIPOLIS) : Master first year internship
+## 2020 ECOLE NORMALE SUPERIEURE (PARIS) / INRIA (SOPHIA-ANTIPOLIS) : Master first year internship
 
 __TITLE :__ _Integrator and resonator neurons: a new approach._
 
@@ -32,7 +32,7 @@ Based on the studies that have already been carried out on the mathematical anal
 
 
 
-## Education : 
+# Education : 
 
 __2018 - 2020__ : SORBONNE UNIVERSITY (PARIS) : Bioinformatics Modeling-Cellular and molecular biology master
 __2015 - 2018__ : SORBONNE UNIVERSITY (PARIS) : Science of Life license degree.
