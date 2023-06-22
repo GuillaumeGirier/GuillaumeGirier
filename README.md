@@ -6,7 +6,7 @@ On this page, you can find my various public works.
 You can contact me at the following email address: ggirier@bcamath.org
 
 
-<span style="color:blue">some *blue*# Publications : </span>.
+# Publications :
 
 ## Published : 
 
