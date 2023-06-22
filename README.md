@@ -30,7 +30,7 @@ __TITLE :__ _A mathematical, computational and experimental study of neuronal ex
 
 __LOCATION :__ Basque Center for Applied Mathematics (BILBAO)
 
-__SUPERVISORS :__ Rodrigues, Serafim. (BCAM, Ikerbasque Research Professor)/
+__SUPERVISORS :__ Rodrigues, Serafim. (BCAM, Ikerbasque Research Professor) /
                   Desroches, Mathieu. (INRIA, Associate Research Professor)
 
 
