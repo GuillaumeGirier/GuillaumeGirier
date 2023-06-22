@@ -65,7 +65,7 @@ Due to their plasticity, synapses have the ability to adapt their efficiency to 
 
 ## 2018 : License third year internship
 
-__TITLE :__ _Development of a hepatocyte cell sorting protocol humans infected with Plasmodium spp._
+__TITLE :__ _Development of a hepatocyte cell sorting protocol from humans infected with Plasmodium spp._
 
 __LOCATION :__ Institut de la Vision (PARIS) / INRIA (SOPHIA-ANTIPOLIS)
 
