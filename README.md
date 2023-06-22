@@ -18,7 +18,7 @@ You can contact me at the following email address: ggirier@bcamath.org
 
 # Work Experience :
 
-## 2020 : Master first year internship
+## 2020 : Master second year internship
 
 __TITLE :__ _Integrator and resonator neurons: a new approach._
 
@@ -32,7 +32,32 @@ The main thread of this project is the study of the mathematical concept of inte
 
 Based on the studies that have already been carried out on the mathematical analysis of integrator and resonator neurons and on the slow-fast dynamics of systems of differential equations, the aim is therefore to seek to show that an integrator neuron can have the behavior of a resonator neuron, and therefore have oscillations below the precise threshold which normally defines it. Thus, on a non-forced model of integrating neuron, a slow forcing will be imposed in order to reveal a pseudo-collar point and, for well-established parameters, small oscillations of trajectories near it: the model forced will therefore have the behavior of a resonator.
 
+## 2019 : Master first year internship
 
+__TITLE :__ _Short-term synaptic plasticity: modeling depression and synaptic facilitation._
+
+__LOCATION :__ Institut de la Vision (PARIS) / INRIA (SOPHIA-ANTIPOLIS)
+
+__SUPERVISORS :__ Desroches, Mathieu. (INRIA, Associate Research Professor)
+	          Sheynikovitch, Denis. (Vision Institute, Associate Professor Sorbonne University)
+
+__PROJECT DESCRIPTION :__ 
+
+Due to their plasticity, synapses have the ability to adapt their efficiency to transmit electrical current, and this on different time scales. In the short term, this plasticity is transient and is broken down into several phenomena that will raise the cognitive capacity linked to a temporary maintenance and manipulation of the information maintained in the activity within the pyramidal cells of the neocortex: the memory of job. 
+
+<!-- a normal html comment -->
+
+## 2018 : License third year internship
+
+__TITLE :__ _Development of a hepatocyte cell sorting protocol humans infected with Plasmodium spp._
+
+__LOCATION :__ Institut de la Vision (PARIS) / INRIA (SOPHIA-ANTIPOLIS)
+
+__SUPERVISORS :__ Soulard, Valérie. (CIMI-PARIS Team 8 "Biology and immunology of malaria")
+
+__PROJECT DESCRIPTION :__ 
+
+Malaria is the most deadly parasitic disease in the world, with an average of 445 000 deaths each year, and is caused by Plasmodium. In a joint European project against this disease, the team 12 of the “Centre d’Immunologie et des Maladies Infectieuses'' is working on the identification and pre-clinical validation of a new therapeutic target, focusing on the hepatic stage of the life cycle of Plasmodium. For a good study of parasites, a protocol project for sorting infected cells is set up. In this context, P. berghei is used, and “humanized” mice at liver level will be infected by this parasite. First, we studied mouse liver infections by immunostaining on frozen liver slides. Assays of human albumin were performed for the study of the humanization of these humanized mice. A comparative study of the cytometers, thanks to immunostaining, made it possible to define that the Astrios system is the most effective in the sorting of the liver cells. 
 
 # Education : 
 
