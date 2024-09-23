@@ -1,6 +1,8 @@
 # Hello world! 👋
 
-I am currently finishing my thesis in computational neuroscience at BCAM (Basque Center for Applied Mathematics). 
+Postdoc at Ustav Informatiky in Prague in computational neuroscience.
+Member of the BRADY project: https://cobra.cs.cas.cz/wiki/pmwiki.php/Proj/Brady
+PhD received in 2024 with honors "Cum Laude" at the University of the Basque Country (Leioa).
 On this page, you can find my various public works.
 
 # Contact :
