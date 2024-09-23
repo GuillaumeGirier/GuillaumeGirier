@@ -5,7 +5,7 @@ On this page, you can find my various public works.
 
 # Contact :
 
-You can contact me at the following email address: ggirier@bcamath.org
+You can contact me at the following email address: guillaumegirier@gmail.com
 
 Personal website : https://guillaumegirier.github.io/
 
